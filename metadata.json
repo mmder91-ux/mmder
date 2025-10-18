@@ -1,0 +1,5 @@
+{
+  "name": "Othello Game",
+  "description": "A classic Othello (Reversi) board game built with React and Tailwind CSS. Challenge yourself to outmaneuver your opponent and control the board.",
+  "requestFramePermissions": []
+}
